@@ -1,2 +1,2 @@
-# Project34
-NewtonsPendulum
+# p5.play-boilerplate
+Boiler plate for p5.play
